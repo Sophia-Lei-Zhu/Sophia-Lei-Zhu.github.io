@@ -1,5 +1,6 @@
 ---
 layout: post-template
+title: hello
 ---
 
 ### This is A Markdown
