@@ -13,12 +13,12 @@ body {
 
 /* choose a light or dark theme to add to the body tag. */
 .dark-theme {
-    background-color: #151515;
+    background-color: #242323;
     color: #fbfbfb;
 }
 .light-theme {
     background-color: white;
-    color: black;
+    color: rgb(27, 26, 26);
 }
 
 .header {
