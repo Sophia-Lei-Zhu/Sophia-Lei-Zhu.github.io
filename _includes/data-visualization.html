@@ -1,22 +1,23 @@
 <!-- Data Visualization -->
 <section id="DataVisualization" class="two">
-    <div class="container">
+    <div class="container" style="display: table; background-color: lightcyan; ;">
 
         <header>
             <h2>Data Visualization</h2>
         </header>
 
-        <p>Tools: Tableau, Excel, API, IBM Watson, Adobe Illustrator.</p>
+        <p>Tools: Tableau, Excel, API, IBM Watson, Power BI, Adobe Illustrator.</p>
 
         <div class="row">
 
         {% for post in site.categories.visualizations %}
-        <div class="col-4 col-12-mobile">
+        <div class="col-4 col-12-mobile" style="display: table-cell;">
             <article class="item">
-                <a href="{{ site.baseurl }}{{ post.url }}" class="image fit"><img src="{{ site.baseurl }}/{{ post.cover-image }}" alt=""></a>
-                <header>
-                    <a href="{{ site.baseurl }}{{ post.url }}" class="image fit"><h3>{{ post.title }}</h3></a>
-                </header>
+                <a href="{{ site.baseurl }}{{ post.url }}" class="image fit"><img src="{{ site.baseurl }}/{{ post.cover-image }}" alt="">
+                    <header>
+                        <h3>{{ post.title }}</h3>
+                    </header>
+                </a>
             </article>
         </div>
         {% endfor %}

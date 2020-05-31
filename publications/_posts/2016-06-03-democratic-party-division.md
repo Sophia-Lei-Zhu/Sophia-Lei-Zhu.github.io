@@ -11,7 +11,9 @@ Analysis
 # By Sophia Lei Zhu
 # Published on June 3, 2016
 
-image: images/publications/trump-next-real-issue/1.jpg "Photo of Donald Trump")  
+<img src="{{site.baseurl}}/{{page.cover-image}}" alt="Photo of Voters" width="90%"/>  
+<span style="font-size: 0.8em;"><em> Delegates are seen at the Democratic National Convention in Philadelphia on June 8, 2016. </em></span>  
+
 
 With the final primaries of the 2016 U.S. presidential election approaching, a Quinnipiac University National poll released Wednesday finds the candidates most likely to lead their parties into the general election are locked in a much tighter race.
 
