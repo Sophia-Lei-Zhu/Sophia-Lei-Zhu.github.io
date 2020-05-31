@@ -1,6 +1,6 @@
 ---
 layout: post-template
-title: Analysis&#58; Trump aide Michael Flynn's resignation reveals chaos in new U.S. administration
+title: Trump aide Michael Flynn's resignation reveals chaos in new U.S. administration
 cover-image: images/publications/flynn-chaos/1.jpg
 ---
 Post 2016 U.S. Presidential Election  
@@ -8,8 +8,9 @@ Post 2016 U.S. Presidential Election
 
 ## Analysis: Trump aide Michael Flynn's resignation reveals chaos in new U.S. administration
 # By Sophia Lei Zhu
-# Published on February 16, 2017 
+# Published on February 16, 2017   
 
+<p></p>
 <img src="{{site.baseurl}}/{{page.cover-image}}" alt="Photo of Trump" width="90%"/>  
 <span style="font-size: 0.8em;"><em> </em></span>  
 

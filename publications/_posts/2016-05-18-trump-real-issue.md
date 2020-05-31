@@ -11,13 +11,17 @@ Analysis
 # By Sophia Lei Zhu
 # Published on May 18, 2016
 
-image: images/publications/trump-next-real-issue/1.jpg "Photo of Donald Trump")  
+<p></p>
+<img src="{{site.baseurl}}/{{page.cover-image}}" alt="Photo of Voters" width="90%"/>  
+<span style="font-size: 0.8em;"><em></em></span>  
+
 
 After Donald Trump defeated 16 other candidates in a what looked like a strong Republican field, the next real issue facing the presumptive presidential nominee of the GOP is to prove he is a trustworthy leader, experts said. Although the GOP is not yet united to support the bombastic New York real estate billionaire who flip-flops on his policy stances, the split would not cause real damage to his campaign, they said.  
 
 The establishment Republicans who were rankled by his fiery rhetoric on trade, immigration and Muslims in a primary election campaign would eventually line up behind him in the general election, they predicted. 
    
-### LEADERSHIP CREDIBILITY  
+### LEADERSHIP CREDIBILITY
+<p></p>  
 
 "The real issue with Donald Trump is Donald Trump," said Allan Lichtman, an American political historian who teaches at American University in Washington D.C. It is an open question whether Trump is the man voters want to trust with control of the American nuclear arsenal and of the American military, he said.
 
@@ -39,7 +43,8 @@ Trump, who is tapping directly into the anti-establishment sentiment by speaking
 
 "He will have to change policy stances; he has to change the way he presents himself; he has to appeal to women," she said. 
    
-### REPUBLICAN ENDORSEMENT  
+### REPUBLICAN ENDORSEMENT
+<p></p>  
 
 If Trump did so, it might help him reconcile with the establishment Republicans, who are still reluctantly coming to terms with the reality that Trump -- the brash real estate mogul many feared given his unpredictability and lack of discipline on the campaign trail -- becomes their party's standard bearer.
 
