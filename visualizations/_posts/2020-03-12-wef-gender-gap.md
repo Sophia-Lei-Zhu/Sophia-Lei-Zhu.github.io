@@ -2,7 +2,7 @@
 layout: post-template
 title: The Best and Worst Countries for a Woman in 2020
 excerpt: 
-cover-image: images/visualizations/wef-gender-gap/1.gif
+cover-image: images/visualizations/wef-gender-gap/1.jpg
 ---
 Sophia Zhu Data Visualization
   
