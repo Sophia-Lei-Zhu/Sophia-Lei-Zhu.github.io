@@ -7,8 +7,9 @@ cover-image: images/visualizations/black-unemployment/1.jpg
 Sophia Zhu Data Visualization
   
 Society
-### Black Unemployment Rate in the past half century in the U.S.
+### Black Unemployment Rate in past half century in the U.S.
 
+  
 # By Sophia Lei Zhu
 # Published on June 6, 2020
 
