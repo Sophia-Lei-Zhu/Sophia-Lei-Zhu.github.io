@@ -2,7 +2,7 @@
 layout: post-template
 title: Black Unemployment Rate in the past 50 years in the U.S.
 excerpt: 
-cover-image: images/visualizations/black-employment/1.jpg
+cover-image: images/visualizations/black-unemployment/1.jpg
 ---
 Sophia Zhu Data Visualization
   
