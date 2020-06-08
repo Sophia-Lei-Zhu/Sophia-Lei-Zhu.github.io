@@ -22,13 +22,12 @@ Society
 </div>
 <p></p>
 
-<p>For 47 consecutive years, the unemployment rate of Black or African Americans has been the highest compared with Hispanic/Latio and white Americans in the United States.</p> 
-<p>The trend began since March 1973 and ran successively till May 2020 when the unemployment rate of Hispanic/Latino population toppled the list for the first time.  
-In May 2020, the jobless rate of the Hispanic population reached 17.6%, higher than the 16.80% for the blacks.</p>  
+<p>For 47 consecutive years, the unemployment rate of Black or African Americans has been the highest among the three major racial and ethnic groups in the United States.</p> 
+<p>The trend began in March 1973 when data were collected. It ran successively till May 2020 when the unemployment rate of Hispanic/Latino population ranked first for the first time. During that month, the jobless rate of the Hispanic population reached 17.6%, higher than the 16.80% of the blacks.</p>  
 
-<p>In January 1983, about 21.2% Black or African Americans were jobless, marking a historic high for the group in half a century. In August 2019, the unemployment rate for Black or African Americans reached a historic low of 5.0%. However, the unemployment rate was much lower for other racial groups. In the same month, the jobless rate for Whites and Hispanics were 3.4% and 4.2% respectively.</p>
+<p>In January 1983, about 21.2% Black or African Americans were jobless, marking a historic high for the group in half a century. In August 2019, the unemployment rate for Black or African Americans reached a historic low of 5.0%. However, the unemployment rates were lower in that month for Whites and Hispanics, which stood at 3.4% and 4.2% respectively.</p>
 
-<p>In both times of recession and prosperity, White Americans boasted the lowest unemployment rate for 47 consecutive years. The highest jobless rate for White Americans was 9.6%, recorded for December 1982. The lowest jobless rate for the group was 3.1%, registered for April 2019, January 2020, and February 2020.</p> 
+<p>In both times of recession and prosperity, White Americans boasted the lowest unemployment rate. The highest jobless rate for White Americans was 9.6%, recorded for December 1982. The lowest jobless rate for the group was 3.1%, registered for April 2019, January 2020, and February 2020.</p>
   
 <p>For the Hispanic or Latino population, the highest jobless rate was 15.7%, recorded for December 1982. The lowest jobless rate for the group was 3.9%, recorded for September 2019.</p>
 
