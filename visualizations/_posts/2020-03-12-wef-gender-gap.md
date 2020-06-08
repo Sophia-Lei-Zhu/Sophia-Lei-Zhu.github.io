@@ -10,7 +10,7 @@ Gender Equality
 ### The Best and Worst Countries for a Woman in 2020
 
 # By Sophia Lei Zhu
-# Published on March 12, 2020
+# Published on May 26, 2020
 
 <p> </p>
 
