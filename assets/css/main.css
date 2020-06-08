@@ -1757,7 +1757,7 @@ input, select, textarea {
 		.image.avatar48 {
 			width: 64px;
 			height: 64px;
-			background: #f00;
+			background: rgb(241, 239, 239);
 		}
 
 			.image.avatar48 img {
@@ -2032,7 +2032,7 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #222629 url("images/overlay.png");
+		background: #222629 url("images/overlay.png"); /*#222629*/
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		color: #fff;
 		height: 100%;
@@ -2192,6 +2192,7 @@ input, select, textarea {
 
 	#main {
 		margin-left: 375px;
+		text-align: left;
 	}
 
 		#main > section {
@@ -2204,8 +2205,8 @@ input, select, textarea {
 		}
 
 			#main > section.dark {
-				color: #ddd;
-				color: rgba(255, 255, 255, 0.75);
+				color: rgba(253, 250, 250, 0.75);
+				color: rgba(253, 250, 250, 0.75);
 			}
 
 				#main > section.dark h2, #main > section.dark h3, #main > section.dark h4, #main > section.dark h5, #main > section.dark h6 {
@@ -2213,17 +2214,17 @@ input, select, textarea {
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: rgba(246, 250, 247, 0.808);
 					border-color: inherit;
 				}
 
-				#main > section.dark a {
-					color: #fff;
+				#main > section.dark strong {
+					color: rgba(246, 250, 247, 0.808);
 					border-color: inherit;
 				}
 
 					#main > section.dark a:hover {
-						border-bottom-color: rgba(255, 255, 255, 0);
+						border-bottom-color: #36614700;
 					}
 
 			#main > section.cover {
@@ -2234,7 +2235,7 @@ input, select, textarea {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/banner1.jpg");
 			}
 
 			#main > section.two {

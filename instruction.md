@@ -1,10 +1,10 @@
 # steps to develop at local  
 
-1. open command line tool: type cmd in windows search bar.
+1. open command line tool: type "cmd" in windows search bar.
 
 2. type `bash` to switch to Linux core mode
 
-3. type `sudo ls` to see folders in your current directory, you may need to type in password of your linux core subsystem.
+3. type `sudo ls` to see folders in your current directory, you may need to type in password zlzn2019 of your linux core subsystem.
 
 4. type `cd Documents/GitHub/Sophia-Lei-Zhu.github.io` to reach your github repo
 

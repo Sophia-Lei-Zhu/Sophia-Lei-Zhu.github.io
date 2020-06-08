@@ -751,11 +751,14 @@
 				padding: 10em 0;
 				background-size: cover;
 				background-position: center center;
-			}
+	
 
 			&.one {
 				background-color: #81918E;
 				background-image: url('../../images/banner.jpg');
+				  /* Add the blur effect */
+  				filter: blur(8px);
+  				-webkit-filter: blur(8px);
 			}
 
 			&.two {
