@@ -43,4 +43,4 @@ Locke said even though the United States has serious concerns about some of the 
 "A trade war is bad for both countries. There are no winners. Everybody loses especially the workers, consumers and companies," he added.
 
 
-# *The story was first published by Xinhua News Agency on May 7, 2018.* 
+# *The story was first published by Xinhua News Agency on May 7, 2018 with headline "U.S., China have more areas of engagement than that of disagreement: former U.S. ambassador".* 

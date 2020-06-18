@@ -12,7 +12,7 @@ Society
 
 <p></p>
 <img src="{{site.baseurl}}/{{page.cover-image}}" alt="Photo of People Mourning" width="90%"/>  
-<span style="font-size: 0.8em;"><em>A woman attends a candle light vigil to mourn the victims of a mass shooting in Las Vegas, the United States, on Oct. 2, 2017. Credit: Xinhua</em></span>  
+<span style="font-size: 0.8em;"><em>People attend a candle light vigil to mourn the victims of a mass shooting in Las Vegas, the United States, on Oct. 2, 2017. Credit: Xinhua</em></span>  
 <p></p>
 
 
